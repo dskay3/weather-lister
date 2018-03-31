@@ -1,9 +1,9 @@
 {
-  "name": "react-weather",
+  "name": "weather-lister",
   "description": "A react application that shows weather data",
   "version": "0.1.0",
   "author": "Daniel Kim <dskay7@gmail.com>",
-  "homepage": "https://dskay3.github.io/react-weather",
+  "homepage": "https://dskay3.github.io/weather-lister",
   "license": "ISC",
   "private": true,
   "dependencies": {
