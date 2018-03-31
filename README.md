@@ -10,3 +10,6 @@ In order to access the web application, you can either clone the application and
 You can also visit a live website hosted on [Heroku](https://www.heroku.com).
 
 Click here to visit the live website: [Weather Lister](https://weather-lister-dkim.herokuapp.com/)
+
+## Purpose
+The purpose of this application, while it can provide useful weather information, is to familiarize myself with the concepts of Redux. 
